@@ -1,0 +1,57 @@
+@font-face {
+   font-family:
+
+}
+#Title1{
+  font-family: serif;
+}
+hr{
+border: 20px, #A32F4C;
+color: #A36F6D
+}
+h1{
+  color: brown
+}
+body{
+  background-color:  orange;
+}
+
+#txt1{
+font: serif;
+color: purple
+}
+#txt2{
+  font: serif;
+  color: green
+}
+#txt3{
+  font: serif;
+  color: blue
+}
+#txt4{
+  font: serif;
+  color: blue
+}
+#txt5{
+  font: serif;
+  color: green
+}
+#txt6{
+  font: serif;
+  color: purple
+}
+
+
+#Title1 {
+  border: 5px  #A57A6C;
+  height: 260px;
+  width: 220px;
+  font size: 5px;
+  color: 10px green;
+}
+#Naanjpg{
+border: 10px;
+height: 300px;
+width: 200px
+
+}
